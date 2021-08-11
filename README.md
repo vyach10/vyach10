@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Viacheslav
+- 👀 I’m interested in Python and Data Analytics
+- 🌱 I’m currently learning Data Engineering to relocate
+- 📫 Tg: @vyaac
